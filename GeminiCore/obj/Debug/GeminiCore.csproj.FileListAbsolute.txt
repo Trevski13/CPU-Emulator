@@ -1,0 +1,10 @@
+c:\users\morecraf\documents\visual studio 2012\Projects\WindowsFormsApplication2\GeminiCore\bin\Debug\GeminiCore.dll
+c:\users\morecraf\documents\visual studio 2012\Projects\WindowsFormsApplication2\GeminiCore\bin\Debug\GeminiCore.pdb
+c:\users\morecraf\documents\visual studio 2012\Projects\WindowsFormsApplication2\GeminiCore\obj\Debug\GeminiCore.csprojResolveAssemblyReference.cache
+c:\users\morecraf\documents\visual studio 2012\Projects\WindowsFormsApplication2\GeminiCore\obj\Debug\GeminiCore.dll
+c:\users\morecraf\documents\visual studio 2012\Projects\WindowsFormsApplication2\GeminiCore\obj\Debug\GeminiCore.pdb
+F:\Dropbox\Documents\School\CISC 360\Project 1\WindowsFormsApplication2\GeminiCore\bin\Debug\GeminiCore.dll
+F:\Dropbox\Documents\School\CISC 360\Project 1\WindowsFormsApplication2\GeminiCore\bin\Debug\GeminiCore.pdb
+F:\Dropbox\Documents\School\CISC 360\Project 1\WindowsFormsApplication2\GeminiCore\obj\Debug\GeminiCore.csprojResolveAssemblyReference.cache
+F:\Dropbox\Documents\School\CISC 360\Project 1\WindowsFormsApplication2\GeminiCore\obj\Debug\GeminiCore.dll
+F:\Dropbox\Documents\School\CISC 360\Project 1\WindowsFormsApplication2\GeminiCore\obj\Debug\GeminiCore.pdb
